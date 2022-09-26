@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "172024598958",
+    "project_id": "web-store-elektroterm-036",
+    "storage_bucket": "web-store-elektroterm-036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172024598958:android:5b6ee86b15c0207e42b83f",
+        "android_client_info": {
+          "package_name": "net.webadvisors.elektroterm036"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172024598958-ooknjk4bu1akfum11b6u0nra8vtffav0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WpsLrPoos9-7bbjJw312CkSFVXrmGgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172024598958-ooknjk4bu1akfum11b6u0nra8vtffav0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172024598958-jgtrvn05m9kc90fl8sbet8m0q077t1tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.webadvisors.elektroterm036"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
