@@ -14,7 +14,7 @@ export const styles = StyleSheet.create ({
         flex:1,
     }, 
     text:{
-        color: colors.blue,
+        color: colors.splashBlue,
         fontWeight: '500',
         marginHorizontal: 8,
     }

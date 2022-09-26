@@ -9,30 +9,34 @@ export const styles = StyleSheet.create ({
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',   
-        height:'100%'
+        
     },
     titleContainer:{
-        marginVertical:54,
+        marginVertical:35,
     },
     image:{
         width: "100%",
-        height: 200,
+        height: 300,
     },
     title:{
-        fontSize: 40,
+        fontSize: 22,
         fontWeight:'bold',
         textAlign: 'center',
+        color:colors.black
 
     },
     innertitle:{
-        color: colors.orange,
-        textDecorationLine: 'underline'
+        color: colors.splashBlue,
+        textDecorationLine: 'underline',
+        fontSize: 40,
     },
     footerText:{
-        color: colors.blue,
+        color: colors.splashBlue,
         textAlign: 'center',
         fontSize: 16,
         fontWeight: 'bold',
-        marginTop: 30,
+        marginTop: 80,
+        paddingBottom: '100%',
+        
     }
 })

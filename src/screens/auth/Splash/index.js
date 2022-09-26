@@ -9,16 +9,16 @@ const Splash = () => {
             <Image resizeMode="contain" style={styles.image} source={require('../../../assets/splashImage.png')}/>
 
             <View style={styles.titleContainer}>
-                <Text style={styles.title}>You'll Find</Text>
-                <Text style={[styles.title,styles.innertitle]}>All you need</Text>
-                <Text style={styles.title}>Here!</Text>
+                <Text style={styles.title}>Moderan stil za vaš moderan život</Text>
+                <Text style={[styles.title,styles.innertitle]}>Elektroterm 036 </Text>
+                <Text style={styles.title}>Montaža i ugradnja rashladnih uređaja!</Text>
             </View>
             
 
-            <Button title='Sign Up'></Button>
+            <Button title='Registruj se'></Button>
 
             <Pressable hitSlop={20}>
-                <Text style={styles.footerText}> Sign In</Text>
+                <Text style={styles.footerText}> Prijavi se</Text>
             </Pressable>
         </View>
     )

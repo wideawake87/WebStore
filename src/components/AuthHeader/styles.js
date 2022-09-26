@@ -11,13 +11,13 @@ export const styles = StyleSheet.create ({
  
     },
     image:{
-        color: colors.blue,
+        color: colors.splashBlue,
         width:22,
         height:18,
 
     },
     title:{
-        color:colors.blue,
+        color:colors.splashBlue,
         fontSize:26,
         fontWeight:'bold',
         paddingHorizontal:16,

@@ -8,7 +8,7 @@ export const styles = StyleSheet.create ({
     }, 
     label:{
         marginBottom: 8,
-        color: colors.blue,
+        color: colors.splashBlue,
         fontSize: 14,
         fontWeight: '500',
     },

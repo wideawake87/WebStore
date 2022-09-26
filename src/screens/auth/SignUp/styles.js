@@ -13,7 +13,7 @@ export const styles = StyleSheet.create ({
 
     },
     chackBoxText:{
-        color: colors.blue,
+        color: colors.splashBlue,
         fontWeight: '500',
         marginHorizontal: 13,
     },
@@ -28,9 +28,9 @@ export const styles = StyleSheet.create ({
 
     },
     footerText:{
-        color: colors.blue,
+        color: colors.splashBlue,
         fontWeight: '500',
-        marginBottom:56,
+        marginBottom:30,
         textAlign: 'center',
     }, 
     footerLink:{
